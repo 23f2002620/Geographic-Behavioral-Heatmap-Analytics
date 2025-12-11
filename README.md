@@ -33,7 +33,7 @@ A compact analytics pipeline that generates synthetic geolocated users and behav
 pip install numpy pandas folium scikit-learn
 ```
 
-**Geopandas and Shapely (optional, recommended via conda):**
+**Geopandas and Shapely (required, recommended via conda):**
 
 ```bash
 # Recommended for geopandas/shapely due to native dependencies
